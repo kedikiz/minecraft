@@ -1,7 +1,9 @@
 bin/lwjgl*
 bin/jinput.jar
 bin/natives/
+lib/
 debug.stitched_items.png
 debug.stitched_terrain.png
 output-client.log*
 output-server.log*
+ForgeModLoader-client-*
