@@ -1,0 +1,6 @@
+bin/lwjgl*
+bin/natives/
+debug.stitched_itmes.png
+debug.stitched_terrain.png
+output-client.log*
+output-server.log*
