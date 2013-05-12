@@ -1,6 +1,7 @@
 bin/lwjgl*
+bin/jinput.jar
 bin/natives/
-debug.stitched_itmes.png
+debug.stitched_items.png
 debug.stitched_terrain.png
 output-client.log*
 output-server.log*
